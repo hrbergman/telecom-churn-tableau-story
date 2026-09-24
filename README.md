@@ -9,6 +9,6 @@ An interactive Tableau story built for a non-technical executive audience, compa
 - Built for accessibility with colorblind-safe and grayscale palettes, direct labels, and detailed tooltips
 
 **Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/hannah.bergman6783/viz/D210Task1TelecommunicationsAnalysisComparison/Analysis#1)<br>
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/telecom-churn-tableau-story/blob/main/telecom-churn-tableau-story/telecom-churn-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/3cN-x8XWXr8)
